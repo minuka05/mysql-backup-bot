@@ -4,7 +4,7 @@ A Node.js Telegram bot that automatically backs up a MySQL database and sends th
 
 ## Features
 - Manually trigger database backup via `/backup` command.
-- Automatic backups every 15 minutes.
+- Automatic backups every 30 minutes. (can change)
 - Restrict access to specific Telegram users.
 - Send backups to multiple Telegram chat IDs.
 
